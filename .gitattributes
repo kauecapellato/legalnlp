@@ -1,2 +1,4 @@
 phraser1.bin filter=lfs diff=lfs merge=lfs -text
 phraser filter=lfs diff=lfs merge=lfs -text
+phraser2 filter=lfs diff=lfs merge=lfs -text
+Phraser filter=lfs diff=lfs merge=lfs -text

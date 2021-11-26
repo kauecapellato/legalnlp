@@ -1,3 +1,4 @@
 Phraser filter=lfs diff=lfs merge=lfs -text
 FastText filter=lfs diff=lfs merge=lfs -text
 fasttext* filter=lfs diff=lfs merge=lfs -text
+BERTikal filter=lfs diff=lfs merge=lfs -text
